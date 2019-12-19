@@ -1,0 +1,16 @@
+.test{
+   background: blue;
+   text-align: center
+}
+
+.verde{
+    background: yellowgreen;
+    text-align: center;
+    font-size: 2ch
+}
+.weight{
+  font-size:48px;
+}
+.Izquierda {
+  text-align:  left;
+}
